@@ -15,3 +15,14 @@ A user-experience (UX) focused password analysis script designed to evaluate pas
 - [x] Uppercase and Lowercase letter requirements
 - [x] Numeric digit requirement
 - [x] Special character detection (Non-alphanumeric validation)
+<br>
+
+### 🛠️ Tool 2: Dynamic Port Analyzer (`port_analyzer.py`)
+
+A core cybersecurity utility that simulates network port scanning by filtering and identifying "open" and potentially vulnerable ports from a given dataset. 
+
+**Key Engineering Principles Implemented:**
+
+* **Algorithmic Filtering:** Efficiently iterates through complex data structures (Dictionaries) to isolate and extract target values into Lists.
+* **Clean Code & Type Hinting:** Enforces Python type hints (`dict` -> `list`) and PEP 8 standards for professional code readability and maintenance.
+* **Self-Documenting Code:** Utilizes Docstrings for built-in documentation and IDE hover-support, alongside dynamic `if-else` state evaluations.
